@@ -1,13 +1,16 @@
 GAMES:
-
+- Fix coin bug
 
 
 ROOMS:
-
-
+- Add party correct party rooms
+- Fix room sports shop to HQ bug
 
 CATALOGS:
-
+- Make list of catalogs
 
 
 MISCELLANEOUS:
+- Organize/clean up code better
+- Database connection
+- Login page / register page
